@@ -21,7 +21,8 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.padermo.testapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
@@ -38,6 +39,12 @@
       "eas": {
         "projectId": "af11ec81-ae0c-4059-9fcf-59bd1df5b8a8"
       }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/af11ec81-ae0c-4059-9fcf-59bd1df5b8a8"
     }
   }
 }
