@@ -21,10 +21,24 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#ffffff"
-      }
+      },
+      "package": "com.padermo.testapp"
     },
     "web": {
       "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      [
+        "expo-updates",
+        {
+          "username": "padermo"
+        }
+      ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "493ce33a-664f-48d5-91e2-1a4525409bb2"
+      }
     }
   }
 }
