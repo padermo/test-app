@@ -33,6 +33,11 @@
           "username": "padermo"
         }
       ]
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "af11ec81-ae0c-4059-9fcf-59bd1df5b8a8"
+      }
+    }
   }
 }
