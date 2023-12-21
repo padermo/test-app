@@ -38,8 +38,13 @@
       "policy": "appVersion"
     },
     "updates": {
-      "enabled":true,
+      "enabled": true,
       "url": "https://u.expo.dev/af11ec81-ae0c-4059-9fcf-59bd1df5b8a8"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "0b31df3b-c0a0-41bb-9089-e7966a422614"
+      }
     }
   }
 }
