@@ -23,7 +23,7 @@ export default function App() {
 
   return (
     <View style={styles.container}>
-      <Text>Funciona</Text>
+      <Text>Actualizado</Text>
       <StatusBar style="auto" />
     </View>
   );
